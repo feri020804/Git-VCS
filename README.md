@@ -1,2 +1,3 @@
 # Git-VCS
-ini adalah tugas git VCS
+ini adalah tugas 2 saya
+
